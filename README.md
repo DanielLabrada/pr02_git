@@ -99,7 +99,7 @@ classDiagram
 12. Review if issue is closed
 
 # Issues realizadas
-- **Carlosssm:** Method kick undefined; Implement Coach;.
-- **GianCarlo-25:** Defender class doesn't extend from Player class; Implement Person.
-- **LuisRenartDam2:** Issue size; Implement Player.
-- **DanielLabrada:** No existe la clase Ball; Fix Organise() in Midfielder.
+- **Carlos Serra:** Method kick undefined; Implement Coach;.
+- **Gian:** Defender class doesn't extend from Player class; Implement Person.
+- **Luis Renart:** Issue size; Implement Player.
+- **Daniel Labrada:** No existe la clase Ball; Fix Organise() in Midfielder.
