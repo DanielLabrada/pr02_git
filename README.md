@@ -97,3 +97,9 @@ classDiagram
 10. Resolve conflicts(if apply)
 11. Merge 
 12. Review if issue is closed
+
+# Issues realizadas
+- **Carlosssm:** Method kick undefined; Implement Coach;.
+- **GianCarlo-25:** Defender class doesn't extend from Player class; Implement Person.
+- **LuisRenartDam2:** Issue size; Implement Player.
+- **DanielLabrada:** No existe la clase Ball; Fix Organise() in Midfielder.
